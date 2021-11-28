@@ -1,1 +1,2 @@
+WhatsNumber Pravicy Policy:
 This app only reads country code from your sim to determine your country, we're using this information to make the selecting country operation more easier on you.
